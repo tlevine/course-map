@@ -52,3 +52,9 @@ using the linux command-line with bash
 * websockets
 * canvas
 * svg
+
+# collaboration
+
+* github
+* irc
+* open source landscape
