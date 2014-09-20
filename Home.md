@@ -58,3 +58,5 @@ using the linux command-line with bash
 * github
 * irc
 * open source landscape
+* documentation (markdown)
+* testing
