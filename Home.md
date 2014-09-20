@@ -17,7 +17,7 @@ using the linux command-line with bash
 * functions, scope
 * data structures
 
-# computer science
+# computer science fundamentals
 
 * time and space tradeoffs
 * recursion
@@ -25,13 +25,30 @@ using the linux command-line with bash
 * sorting
 * trees, graphs
 
+# programming languages
+
+* regular expressions
+* state machines
+* parsing
+
 # node.js
 
-* http servers
-* tcp servers
+* arguments
+* stdin, stdout
+* fs
+* net
+* http
+* streams
+* npm
+* leveldb
 
 # front-end programming
 
 * html
 * css
 * events
+* browserify
+* ajax
+* websockets
+* canvas
+* svg
