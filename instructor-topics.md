@@ -30,4 +30,10 @@ I would like to give workshops and presentations about:
 
 and if nobody else wants to, I think it would be really good to have a basic data structure / light intro to cs topics workshop/lecture.
 
+Office hours:
+
+* Monday, Thursday: 13:00 to 18:00
+
+and then Tuesday I'll also be around to help with show and tell. Possibly I'll be around more than this to fill in any gaps.
+
 I am flexible about dates so if people want to swap I can probably accomodate.
