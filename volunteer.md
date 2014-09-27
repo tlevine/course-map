@@ -59,4 +59,5 @@ Still thinking about what workshops I might be able to give, but here are some i
 * ssh (prereq: working linux or mac osx)
 * irc/irssi (prereq: working linux or mac osx)
 * setting up a basic web server (prereq: working linux or mac osx, ssh)
+* using a web api (with the [localwiki api](https://localwiki.org/main/API_Documentation) as an example)
 * solving problems and getting help (searching for info, asking on irc, etc.) (no prereqs, but it helps if you have some problems that need solving)
