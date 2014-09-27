@@ -37,3 +37,13 @@ Office hours:
 and then Tuesday I'll also be around to help with show and tell. Possibly I'll be around more than this to fill in any gaps.
 
 I am flexible about dates so if people want to swap I can probably accomodate.
+
+#thealphanerd
+
+I would like to give workshop / presentations about music technology, and perhaps help co-ordinate / curate other individuals contributing in that space to come talk / teach as well.  Topics and workshops I am interested in presenting include
+
+* introduction to signal processing (and western music theory to an extent)
+* introduction to audio graphs / unit generators
+* introduction to arduino and sensors (johnny five)
+* introduction to embedded linux (raspi perhaps?)
+* making an instrument
