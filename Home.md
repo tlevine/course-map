@@ -60,3 +60,12 @@ using the linux command-line with bash
 * open source landscape
 * documentation (markdown)
 * testing
+
+# Music technology
+
+* signal processing
+* open sound control (udp)
+* reading basic sensor data with an arduino
+* using an embedded linux device such as a raspberry pi
+* web audio
+* making an instrument (physical interface, software synthesis)
