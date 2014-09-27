@@ -1,0 +1,33 @@
+Until the real calendar is up, use this page to volunteer for giving a presentation (along with a workshop afterwards ideally) and to volunteer to mentor for blocks of time. Right now the plan is to run weekdays from January 5th through 30th, but we can also have weekend events if that suits volunteer schedules better. Tuesday evenings will be show and tell night.
+
+You can also volunteer to help facilitate a workshop/lesson that has already been posted. Lectures should ideally come accompanied with lecture notes and a workshop peer-learning section afterward building mini projects based on the topics covered in the lesson. We'll link to all the course materials and student projects from the website when everything is finished.
+
+If you come up with a new topic that you think you can give to a relatively beginner group, please add it to the [course map](course map).
+
+```
+$ cal jan 2015
+    January 2015      
+Su Mo Tu We Th Fr Sa  
+             1  2  3  
+ 4  5  6  7  8  9 10  
+11 12 13 14 15 16 17  
+18 19 20 21 22 23 24  
+25 26 27 28 29 30 31  
+```
+
+I think it makes sense for orientation activities (introducing the format, installing linux) to be on Jan 5th and rolling orientation for any stragglers.
+
+If you can plan this far in advance, dates for your presentation and mentoring would be good to make sure we'll have adequate calendar coverage to make sure CWI is properly intensive. Also note that as CWI progresses students will become increasingly capable, so we should put more introductory topics toward the beginning and topics that require more background that is covered in other lectures toward the end. Bonus points for explicitly listing pre-requisites.
+
+# substack
+
+I would like to give workshops and presentations about:
+
+* basics of unix (pre-requisite: a working linux or mac osx) *jan 6*
+* frontend javascript with npm modules and browserify (pre-requisite: basic javascript, html) *jan 15*
+* svg (pre-requisite: basic javascript, html. soft pre-req on browserify/npm) *jan 21*
+* building a website with leveldb (pre-requisite: node, unix, html) *jan 23*
+
+and if nobody else wants to, I think it would be really good to have a basic data structure / light intro to cs topics workshop/lecture.
+
+I am flexible about dates so if people want to swap I can probably accomodate.
