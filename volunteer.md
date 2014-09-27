@@ -47,3 +47,16 @@ I would like to give workshop / presentations about music technology, and perhap
 * introduction to arduino and sensors (johnny five)
 * introduction to embedded linux (raspi perhaps?)
 * making an instrument
+
+#mk30
+
+I'm happy to be available for office hours at any time, but I won't be super useful on many topics. I will, of course, be happy to figure problems out with people as they occur.
+
+Also I feel comfortable helping people get set up with their environments and answering basic questions ("what is a server?" etc.) in the first week.
+
+Still thinking about what workshops I might be able to give, but here are some ideas I have so far:
+
+* ssh (prereq: working linux or mac osx)
+* irc/irssi (prereq: working linux or mac osx)
+* setting up a basic web server (prereq: working linux or mac osx, ssh)
+* solving problems and getting help (searching for info, asking on irc, etc.) (no prereqs, but it helps if you have some problems that need solving)
