@@ -36,7 +36,7 @@ Office hours:
 
 and then Tuesday I'll also be around to help with show and tell. Possibly I'll be around more than this to fill in any gaps.
 
-I am flexible about dates so if people want to swap I can probably accomodate.
+I am flexible about dates so if people want to swap I can probably accommodate.
 
 #thealphanerd
 
@@ -61,3 +61,14 @@ Still thinking about what workshops I might be able to give, but here are some i
 * setting up a basic web server (prereq: working linux or mac osx, ssh)
 * using a web api (with the [localwiki api](https://localwiki.org/main/API_Documentation) as an example) (prereqs: working linux or mac osx, bash, node)
 * solving problems and getting help (searching for info, asking on irc, etc.) (no prereqs, but it helps if you have some problems that need solving)
+
+#nandxor
+
+I would certainly like to volunteer in support-capacity during Saturday workshops.
+
+Here are a couple workshops I can do that are from/related to the main list:
+
+* intro to git (prereq: working linux, mac osx, or git-bash for windows) 
+* three.js and webgl (prereq: javascript, and front-end)
+
+
