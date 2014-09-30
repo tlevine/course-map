@@ -72,3 +72,6 @@ Here are a couple workshops I can do that are from/related to the main list:
 * three.js and webgl (prereq: javascript, and front-end)
 
 
+#eunoia
+
+I can volunteer for office hours during the day. 
