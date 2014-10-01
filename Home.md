@@ -69,3 +69,10 @@ using the linux command-line with bash
 * using an embedded linux device such as a raspberry pi
 * web audio
 * making an instrument (physical interface, software synthesis)
+
+# Decentralized networking (juul)
+
+* Broadcast and multicast
+* Using mDNS and DNS-SD
+* NAT traversal techniques
+* Decentralization and the web
