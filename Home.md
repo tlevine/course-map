@@ -76,3 +76,9 @@ using the linux command-line with bash
 * Using mDNS and DNS-SD
 * NAT traversal techniques
 * Decentralization and the web
+
+# Regualar Expressions (Luis)
+* Regex characters, character classes
+* Look-aheads and look-behinds
+* using Capturing and non-capturing groups
+* Javascript, python: Parsing response objects with regex
