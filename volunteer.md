@@ -75,3 +75,8 @@ Here are a couple workshops I can do that are from/related to the main list:
 #eunoia
 
 I can volunteer for office hours during the day. 
+
+#morenoh149
+
+I can volunteer most any days. I have a very flexible schedule but can not dedicate more than ~20h/week. I have taught previously at http://www.hackercodingacademy.com/ (defunct) so that experience may help.
+More info harrymoreno.com r3dm.com
