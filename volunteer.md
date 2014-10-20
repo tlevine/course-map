@@ -80,3 +80,21 @@ I can volunteer for office hours during the day.
 
 I can volunteer most any days. I have a very flexible schedule but can not dedicate more than ~20h/week. I have taught previously at http://www.hackercodingacademy.com/ (defunct) so that experience may help.
 More info harrymoreno.com r3dm.com
+
+#rodriguezartav
+
+I invented a CLI that makes it really easy to build NPM based HTML5-JS Apps. We have tried it with high-school students no prior experience, it works with one 1h lecture + a 2h workshop. 
+
+It's based on browserify, and it has a Convention over Configuration approach. It works out of the box, sample apps, develop in local server, upload preview, final deploy to S3. No setup required, uses free & open infrastructure
+
+I am born and based in Costa Rica, travel to SF ofter. I would like get involved with lectures + workshop. Office Hours too.
+
+Some example topics are:
+
+* Learn to build an HTML5 App using Javascript. ( Probably similar to substack's but using a CLI, download samples from repository, change, and upload in 5 minutes; It's iteration from there on. )
+
+* Adaptive Apps - Build HTML5 Apps that Adapts to Mobile, Tablet and Desktop. Building components component based apps.
+
+* Introduction to Data & API's, reading data from simple data sources and sending data to simple API's like Google Docs or Parse for example
+
+
