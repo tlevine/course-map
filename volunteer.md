@@ -91,7 +91,9 @@ I am born and based in Costa Rica, travel to SF ofter. I would like get involved
 
 #QuincyLarson
 
-I can volunteer for office hours the week of Jan 12 - 16. I could potentially lead workshops on the following: debugging and the Chrome DevTools; Express.js; and your aformentioned "searching for things and asking for help" course.
+I can volunteer for office hours the week of Jan 12 - 16. I could potentially lead workshops on the following: debugging and the Chrome DevTools; Express.js; and your aformentioned "solving problems and getting help" course.
+
+I'm running a free online bootcamp similar to this (FreeCodeCamp.com) and "solving problems and getting help" has definitely come up as a critical skill.
 
 Some example topics are:
 
