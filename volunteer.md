@@ -89,6 +89,10 @@ It's based on browserify, and it has a Convention over Configuration approach. I
 
 I am born and based in Costa Rica, travel to SF ofter. I would like get involved with lectures + workshop. Office Hours too.
 
+#QuincyLarson
+
+I can volunteer for office hours the week of Jan 12 - 16. I could potentially lead workshops on the following: debugging and the Chrome DevTools; Express.js; and your aformentioned "searching for things and asking for help" course.
+
 Some example topics are:
 
 * Learn to build an HTML5 App using Javascript. ( Probably similar to substack's but using a CLI, download samples from repository, change, and upload in 5 minutes; It's iteration from there on. )
@@ -97,4 +101,4 @@ Some example topics are:
 
 * Introduction to Data & API's, reading data from simple data sources and sending data to simple API's like Google Docs or Parse for example
 
-
+#
