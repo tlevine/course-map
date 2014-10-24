@@ -103,4 +103,10 @@ Some example topics are:
 
 * Introduction to Data & API's, reading data from simple data sources and sending data to simple API's like Google Docs or Parse for example
 
-#
+#Rudimental
+
+I can volunteer for mentoring/office hours Monday and Thursdays. I could potentially lead workshops on the following:
+
+* JavaScript Fundamentals (making sure people get the content of CodeSchool's JavaScript courses 1-3)
+
+* Introduction to Underscore.js
