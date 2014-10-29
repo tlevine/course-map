@@ -110,3 +110,9 @@ I can volunteer for mentoring/office hours Monday and Thursdays. I could potenti
 * JavaScript Fundamentals (making sure people get the content of CodeSchool's JavaScript courses 1-3)
 
 * Introduction to Underscore.js
+
+#SteveSGill
+
+I can volunteer for mentoring/office hours Wednesdays and possibly more in the evenings. I could potentially lead a workshop on:
+
+* intro to Apache Cordova & developing mobile apps(prereq: node, unix, html, JS) Late Jan (28th?)
