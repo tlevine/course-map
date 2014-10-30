@@ -116,3 +116,11 @@ I can volunteer for mentoring/office hours Monday and Thursdays. I could potenti
 I can volunteer for mentoring/office hours Wednesdays and possibly more in the evenings. I could potentially lead a workshop on:
 
 * intro to Apache Cordova & developing mobile apps(prereq: node, unix, html, JS) Late Jan (28th?)
+
+#zamfi
+
+I'd love to do a session on "how the internet works". It's a fun little interactive course that covers the basics of IP, routing, DNS, TCP, clients and servers (including web, email, etc.), ports, SSL, ethernet, wifi, etc., and tools for using and exploring those. 
+
+People often ask really great questions and we can get really deep into specific points of interest for individual folks, but in general it's just a really fun way to look at what "being on the internet" really means, how nodes are all connected, what the speed of light means for ping times, stuff like that. So I'd propose:
+
+* How the Internet works: names, numbers, streams and everything in between. No prereqs, could be useful basic knowledge for people writing web apps, so maybe earlier in the month? (But I may be out of town Jan 5 & 6.)
