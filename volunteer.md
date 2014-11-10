@@ -134,6 +134,7 @@ So many possibilities...
     [bits](http://thomaslevine.com/!/bits/) and
     [lists](http://thomaslevine.com/!/linked-lists/)
 * [Command line things](http://thomaslevine.com/!/switching-to-command-line/)
+* [Reading PDF files](http://thomaslevine.com/!/parsing-pdfs)
 
 [More here](http://thomaslevine.com/learn/)
 
