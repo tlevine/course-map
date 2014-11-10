@@ -124,3 +124,22 @@ I'd love to do a session on "how the internet works". It's a fun little interact
 People often ask really great questions and we can get really deep into specific points of interest for individual folks, but in general it's just a really fun way to look at what "being on the internet" really means, how nodes are all connected, what the speed of light means for ping times, stuff like that. So I'd propose:
 
 * How the Internet works: nodes, names, numbers, streams and everything in between. (Prerequisites: computer running a command line.) Early January -- could be useful intro before people start writing web apps. (But I may be out of town Jan 5 & 6.)
+
+#[Thomas Levine](http://thomaslevine.com)
+
+So many possibilities...
+
+* [Algorithm games](http://thomaslevine.com/!/real-world-algorithms/)
+* Data structure games, like
+    [bits](http://thomaslevine.com/!/bits/) and
+    [lists](http://thomaslevine.com/!/linked-lists/)
+* [Command line things](http://thomaslevine.com/!/switching-to-command-line/)
+
+[More here](http://thomaslevine.com/learn/)
+
+The main concern for my availability is whether I'll be in Oakland in
+January. I can [move easily](http://thomaslevine.com/stuff/), but I don't
+like looking for apartments; does anyone know anyone who is looking for
+a roommate in January?
+
+And [this is how I think about teaching](http://thomaslevine.com/!/about/#teaching).
