@@ -7,3 +7,4 @@ Also, our discussion forum is at https://github.com/cyberwizardinstitute/discuss
 * [StephenSikes](https://github.com/StephenSikes) (Steve) - I'm interested in learning more about computing in non-Windows based systems, being conversant/fluent in JavaScript and Python (or any number of other languages).
 * [rgruesbeck](https://github.com/rgruesbeck) (Ron) - interested in learning many spells, p2p, and signal processing.
 * [kevincoleman](https://github.com/kevincoleman) (Kevin) - background in front-end development, just getting into node.js. Would love to get better at integrations/APIs and git in general.
+* [poppywis3](https://github.com/poppywis3) (Jennifer) -product designer (footwear) interested in transitioning to front-end design, games and app building that focuses on kids, art, music, culture.
