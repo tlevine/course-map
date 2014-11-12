@@ -77,7 +77,7 @@ using the linux command-line with bash
 * NAT traversal techniques
 * Decentralization and the web
 
-# Regualar Expressions (Luis)
+# Regular Expressions (Luis)
 * Regex characters, character classes
 * Look-aheads and look-behinds
 * using Capturing and non-capturing groups
