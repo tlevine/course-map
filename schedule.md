@@ -1,4 +1,4 @@
-Class will take place 1-6PM M-F. We will try to schedule all lectures in the evening, 4-6PM. If facilitators are available, there may also be facilitators and lectures a 6-9PM.
+Class will take place 1-6PM M-F. We will try to schedule all lectures in the evening, 4-6PM. When available, there may also be facilitators and lectures at night, 6-9PM.
 
 The first week of the course (Jan. 5-9) will be informal and optional. We will help people get set up with Linux and get started with basic concepts. If you're a complete beginner, please try to make as much of this first week as possible. If you're not a beginner, we encourage you to come as well - it will be a great time to start working on projects and develop a learning plan if you have a specific learning goal.
 
