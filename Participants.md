@@ -11,4 +11,4 @@ Also, our discussion forum is at https://github.com/cyberwizardinstitute/discuss
 * [poppywis3](https://github.com/poppywis3) (Jennifer) -product designer (footwear) interested in transitioning to front-end design, games and app building that focuses on kids, art, music, culture.
 * [tinkerb] (https://github.com/tinkerb) (Lesley) - interested in improving front-end dev skills, want to play with node.js. Also interested in data science, machine learning, and hardware.  
 * [fvntr] (https://github.com/fvntr) (Phillip) - interested in improving problem solving skills through code, getting more comfortable with the command line, and building applications with other programmers.
-* [sedmonds](https://github.com/sedmonds)(Scott) - passion for technology and music. I'm interested in geolocation, sneakernets, and having fun building apps with others.
+* [sedmonds] (https://github.com/sedmonds) (Scott) - passion for technology and music. I'm interested in geolocation, sneakernets, and having fun building apps with others.
