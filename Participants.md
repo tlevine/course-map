@@ -12,3 +12,4 @@ Also, our discussion forum is at https://github.com/cyberwizardinstitute/discuss
 * [tinkerb] (https://github.com/tinkerb) (Lesley) - interested in improving front-end dev skills, want to play with node.js. Also interested in data science, machine learning, and hardware.  
 * [fvntr] (https://github.com/fvntr) (Phillip) - interested in improving problem solving skills through code, getting more comfortable with the command line, and building applications with other programmers.
 * [sedmonds] (https://github.com/sedmonds) (Scott) - passion for technology and music. I'm interested in geolocation, sneakernets, and having fun building apps with others.
+* [Rudimental] (https://github.com/Rudimental) (David) - I'm interested in all things JavaScript- eg node, using APIs, git, and command line, and basic cs concepts such as data structures. I love music.
