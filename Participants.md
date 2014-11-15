@@ -6,7 +6,7 @@ Also, our discussion forum is at https://github.com/cyberwizardinstitute/discuss
 * [mgruesbeck](https://github.com/mgruesbeck) (Melvin) - interested in learning the thought process of a good programmer and how internet works. I plan on focusing on JavaScript, NodeJS, Linux tools, databases and the web.
 * [StephenSikes](https://github.com/StephenSikes) (Steve) - I'm interested in learning more about computing in non-Windows based systems, being conversant/fluent in JavaScript and Python (or any number of other languages).
 * [rgruesbeck](https://github.com/rgruesbeck) (Ron) - interested in learning many spells, p2p, and signal processing.   
-* [gluegun](https://github.com/gluegun) (Davida) - I want to focus on building strong command line skills, move into javascript and node.js, and explore possibilities of fullstack development.
+* [gluegun](https://github.com/gluegun) (Davida) - I want to focus on building strong Unix command-line skills, move into javascript fundamentals, build and app with node.js, and explore possibilities of fullstack development.
 * [kevincoleman](https://github.com/kevincoleman) (Kevin) - background in front-end development, just getting into node.js. Would love to get better at integrations/APIs and git in general.
 * [poppywis3](https://github.com/poppywis3) (Jennifer) -product designer (footwear) interested in transitioning to front-end design, games and app building that focuses on kids, art, music, culture.
 * [tinkerb] (https://github.com/tinkerb) (Lesley) - interested in improving front-end dev skills, want to play with node.js. Also interested in data science, machine learning, and hardware.  
