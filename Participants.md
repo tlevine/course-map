@@ -17,3 +17,4 @@ Also, our discussion forum is at https://github.com/cyberwizardinstitute/discuss
 * [josiah-meyer] (https://github.com/josiah-meyer) (That's my name!) interested in learning Node.js, API integration and mobile, multiplayer games are my current focus. If I can get a jargon lesson, that would be appreciated. (Soft commit. My work forecast in January is cloudy.)
 * [terrylwood] (https://github.com/terrylwood) (Terry) - The wizardry is why I am coming.  I want to learn to cast spells and amaze my grandchildren with awesome experiences through computing.
 *[ermosh](https://github.com/ermosh)(Erin) Interested in improving my technical literacy overall.
+* [jennyfer55](https://github.com/jennyfer55) (Jenny) total Novice looking forward to accessing the magic that  exists within
