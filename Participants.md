@@ -16,3 +16,4 @@ Also, our discussion forum is at https://github.com/cyberwizardinstitute/discuss
 * [CristinaDeptula] (https://github.com/CristinaDeptula_ (Cristina) - creative publicist, interested in designing Android apps to showcase the work of our author clients. 
 * [josiah-meyer] (https://github.com/josiah-meyer) (That's my name!) interested in learning Node.js, API integration and mobile, multiplayer games are my current focus. If I can get a jargon lesson, that would be appreciated. (Soft commit. My work forecast in January is cloudy.)
 * [terrylwood] (https://github.com/terrylwood) (Terry) - The wizardry is why I am coming.  I want to learn to cast spells and amaze my grandchildren with awesome experiences through computing.
+*[ermosh] (https://github.com/ermosh)(Erin) - Interested in getting comfortable with Javascript for front- and back-end, and improving my technical literacy overall.
