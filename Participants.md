@@ -18,4 +18,4 @@ Also, our discussion forum is at https://github.com/cyberwizardinstitute/discuss
 * [terrylwood] (https://github.com/terrylwood) (Terry) - The wizardry is why I am coming.  I want to learn to cast spells and amaze my grandchildren with awesome experiences through computing.
 *[ermosh](https://github.com/ermosh)(Erin) Interested in improving my technical literacy overall.
 * [jennyfer55](https://github.com/jennyfer55) (Jenny) total Novice looking forward to accessing the magic that  exists within
-*[catrodigious] (https://github.com/catrodigious) (Cat) - Creating a GUI. Because it's still magic to me.
+* [catrodigious] (https://github.com/catrodigious) (Cat) - Creating a GUI. Because it's still magic to me.
