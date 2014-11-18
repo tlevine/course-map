@@ -19,3 +19,4 @@ Also, our discussion forum is at https://github.com/cyberwizardinstitute/discuss
 *[ermosh](https://github.com/ermosh)(Erin) Interested in improving my technical literacy overall.
 * [jennyfer55](https://github.com/jennyfer55) (Jenny) total Novice looking forward to accessing the magic that  exists within
 * [catrodigious] (https://github.com/catrodigious) (Cat) - Creating a GUI. Because it's still magic to me.
+* [ugobelu](https://github.com/ugobelu) (Ugo) - Tech enthusiast interested in strengthening my understanding of JavaScript/Node.js/AngularJS, gaining some pair programming experience, learning some application design best-practices, and writing code useful for everyday life.
