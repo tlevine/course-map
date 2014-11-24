@@ -20,3 +20,4 @@ Also, our discussion forum is at https://github.com/cyberwizardinstitute/discuss
 * [jennyfer55](https://github.com/jennyfer55) (Jenny) total Novice looking forward to accessing the magic that  exists within
 * [catrodigious] (https://github.com/catrodigious) (Cat) - Creating a GUI. Because it's still magic to me.
 * [ugobelu](https://github.com/ugobelu) (Ugo) - Tech enthusiast interested in strengthening my understanding of JavaScript/Node.js/AngularJS, gaining some pair programming experience, learning some application design best-practices, and writing code useful for everyday life.
+* [katieharper] (https://github.com/katieharper) (Katie) - absolute beginner. basic 'computational thinking' more than any specific project; interested in how tech structures impact interpersonal communication & politics. will become scarce when teaching obligations ramp up on 1/20.
