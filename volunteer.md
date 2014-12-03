@@ -144,3 +144,7 @@ like looking for apartments; does anyone know anyone who is looking for
 a roommate in January?
 
 And [this is how I think about teaching](http://thomaslevine.com/!/about/#teaching).
+
+#bloodyKnuckles
+
+I plan on attending the Institute January 12 through the 30th. I'm willing to facilitate anytime and give talks on basic programming constructs, SQL, HTML, CSS, user interface design. 
