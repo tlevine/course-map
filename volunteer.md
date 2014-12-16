@@ -148,3 +148,15 @@ And [this is how I think about teaching](http://thomaslevine.com/!/about/#teachi
 #bloodyKnuckles
 
 I plan on attending the Institute January 12 through the 30th. I'm willing to facilitate anytime and give talks on basic programming constructs, SQL, HTML, CSS, user interface design. 
+
+#notconfusing
+
+I plan on attending the entire institute. I am willing to facilitate any number of lessons on:
++ Discrete Mathematics
+  + Set Theory / Boolean Logic
++ Theoretical Computer Science
+  + Turing Machine / Completeness / Universal Register Machine
+  + Enumerating Sets
++ Data Science
+  + Vectorized languages, panel data
+  + The Grammar of Graphics
