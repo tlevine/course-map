@@ -72,7 +72,7 @@
 * process.argv
 * high level/low level
 
-* git/github/version control
+* git/github/version control (They're different things, by the way.)
 * module
 * library
 * repo
