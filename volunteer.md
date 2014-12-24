@@ -160,3 +160,13 @@ I plan on attending the entire institute. I am willing to facilitate any number 
 + Data Science
   + Vectorized languages, panel data
   + The Grammar of Graphics
+
+#[Ryan Jarvinen](http://twitter.com/ryanj)
+I'm available any time in January and would be happy to teach workshops on any of the following topics:
++ Deploying to "the Cloud" with Git + OpenShift (open source could hosting basics, some git experience is a plus)
++ Mighty Mighty Microframeworks - a comparison / overview of Express, Restify, HAPI, Bottle, Flask, Sinatra, and Silex
++ Choose you own Adventure: Easy Open Source Spatial Stacks featuring LeafletJS (an add-on for the microframeworks talk where we add PostGIS, mongoDB, or any other DB that supports spatial queries in order to draw pins on a map)
++ Getting RESTless with MeteorJS - an introduction to client side dev and mongoDB in the browser with meteorJS (realtime)
++ How to use RevealJS + Websockets + GitHub Gists to create your own realtime slideshow presentation website (http://gist-reveal.it)
+
+I have [a bunch of other talks available](http://ryanjarvinen.com/presentations/), but the ones listed above are probably the easiest for new cyberwizards to follow.
