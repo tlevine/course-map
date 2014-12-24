@@ -4,11 +4,8 @@
 * parameter
 * argument
 * variable
-* "call a function"
+* calling a function
 * callback
-
-* boolean
-* modulo
 
 * data structure
 * database
@@ -46,6 +43,8 @@
 * vim/vi
 * text editor
 
+* boolean
+* modulo
 * interface/gui
 * algorithm
 * ssh
