@@ -84,3 +84,4 @@ words that have different meanings in programming than in regular speech:
 * element
 * expose
 * attribute
+* [variable](http://www.datakind.org/blog/multiple-meanings-of-the-word-variable/)
